@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
