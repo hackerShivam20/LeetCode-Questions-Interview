@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1940-maximum-xor-for-each-query) |
+| [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
+| [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
+## Greedy
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
