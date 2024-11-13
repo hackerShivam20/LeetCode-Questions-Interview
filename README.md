@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1940-maximum-xor-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0443-string-compression) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
