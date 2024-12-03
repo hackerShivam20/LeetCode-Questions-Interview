@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3451-string-compression-iii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1940-maximum-xor-for-each-query) |
+| [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3291-find-if-array-can-be-sorted) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0443-string-compression) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
