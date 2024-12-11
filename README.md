@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1801-average-time-of-process-per-machine](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
