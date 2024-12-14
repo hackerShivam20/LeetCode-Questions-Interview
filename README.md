@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1940-maximum-xor-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3291-find-if-array-can-be-sorted) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0013-roman-to-integer) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Database
 |  |
 | ------- |
@@ -167,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
