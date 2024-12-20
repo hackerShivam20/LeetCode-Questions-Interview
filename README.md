@@ -94,14 +94,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
