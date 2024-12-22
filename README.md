@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1940-maximum-xor-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
