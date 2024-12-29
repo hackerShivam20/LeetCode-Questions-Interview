@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0328-odd-even-linked-list) |
 ## Stack
 |  |
 | ------- |
