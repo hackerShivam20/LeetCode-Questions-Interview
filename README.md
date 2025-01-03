@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
+| [2050-count-good-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
@@ -203,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0025-reverse-nodes-in-k-group) |
+| [2050-count-good-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
