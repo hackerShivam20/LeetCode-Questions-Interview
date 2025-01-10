@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
