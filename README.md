@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Simulation
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Breadth-First Search
@@ -230,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0025-reverse-nodes-in-k-group) |
 | [2050-count-good-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2050-count-good-numbers) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
