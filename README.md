@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1250-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2580-circular-sentence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
+| [1250-longest-common-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
