@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2580-circular-sentence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0583-delete-operation-for-two-strings) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## String Matching
 |  |
 | ------- |
