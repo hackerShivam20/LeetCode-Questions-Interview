@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0812-rotate-string) |
 | [1170-shortest-common-supersequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1170-shortest-common-supersequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0516-longest-palindromic-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0583-delete-operation-for-two-strings) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1170-shortest-common-supersequence) |
