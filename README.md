@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1250-longest-common-subsequence) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0402-remove-k-digits) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
