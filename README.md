@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
+| [1121-partition-array-for-maximum-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
+| [1121-partition-array-for-maximum-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1250-longest-common-subsequence) |
