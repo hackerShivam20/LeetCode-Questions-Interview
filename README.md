@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0812-rotate-string) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
+| [1197-parsing-a-boolean-expression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0025-reverse-nodes-in-k-group) |
+| [1197-parsing-a-boolean-expression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
