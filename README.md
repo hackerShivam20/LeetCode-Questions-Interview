@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0085-maximal-rectangle) |
+| [1036-rotting-oranges](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Bit Manipulation
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1036-rotting-oranges) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Recursion
 |  |
