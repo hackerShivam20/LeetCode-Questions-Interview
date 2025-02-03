@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Recursion
 |  |
@@ -298,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0937-online-stock-span) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
