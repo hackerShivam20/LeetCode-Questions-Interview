@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0801-is-graph-bipartite) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1036-rotting-oranges) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Recursion
@@ -320,8 +322,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
