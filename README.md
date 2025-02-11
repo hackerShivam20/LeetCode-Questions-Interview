@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0450-delete-node-in-a-bst](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0450-delete-node-in-a-bst](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Prefix Sum
 |  |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0820-find-eventual-safe-states) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
