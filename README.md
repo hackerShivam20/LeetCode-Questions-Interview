@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0744-network-delay-time) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
