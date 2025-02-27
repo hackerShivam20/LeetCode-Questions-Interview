@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0085-maximal-rectangle) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0127-word-ladder) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
