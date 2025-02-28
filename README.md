@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0084-largest-rectangle-in-histogram) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
