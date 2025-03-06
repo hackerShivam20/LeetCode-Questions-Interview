@@ -33,7 +33,7 @@ public:
         return temp;
     }
 
-    ListNode* reverseKGroup(ListNode* head, int k) {
+    ListNode* reverseKGroup(ListNode* head, int k){
         ListNode* temp = head;
         ListNode* prevNode = NULL;
 
@@ -54,7 +54,7 @@ public:
                 head = kthNode;
             }
             else {
-                if(prevNode)prevNode->next = kthNode;
+                if(prevNode) prevNode->next = kthNode;
             }
             prevNode = temp;
             temp = nextNode;
