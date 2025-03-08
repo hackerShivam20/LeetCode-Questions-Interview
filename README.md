@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0053-maximum-subarray) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0074-search-a-2d-matrix) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0127-word-ladder) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0052-n-queens-ii) |
 ## Strongly Connected Component
