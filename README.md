@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Recursion
 |  |
 | ------- |
