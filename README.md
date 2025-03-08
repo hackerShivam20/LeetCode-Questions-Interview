@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0132-palindrome-partitioning-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0443-string-compression) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0744-network-delay-time) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0733-flood-fill) |
@@ -377,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
