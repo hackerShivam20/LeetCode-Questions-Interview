@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0583-delete-operation-for-two-strings) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1940-maximum-xor-for-each-query) |
 ## Hash Table
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
