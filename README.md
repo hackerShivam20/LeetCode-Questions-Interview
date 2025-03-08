@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0443-string-compression) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0312-burst-balloons) |
