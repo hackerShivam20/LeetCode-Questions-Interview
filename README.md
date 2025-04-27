@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0312-burst-balloons) |
+| [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Tree
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0127-word-ladder) |
+| [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1753-path-with-minimum-effort) |
@@ -441,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
