@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0542-01-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0380-insert-delete-getrandom-o1) |
 | [2050-count-good-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0380-insert-delete-getrandom-o1) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -470,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
