@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2232-adding-spaces-to-a-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2232-adding-spaces-to-a-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
