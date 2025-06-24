@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0300-longest-increasing-subsequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0210-course-schedule-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
