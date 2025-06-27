@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0328-odd-even-linked-list) |
 ## Stack
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0210-course-schedule-ii) |
