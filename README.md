@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0443-string-compression) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0056-merge-intervals) |
+| [0295-find-median-from-data-stream](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -420,12 +423,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0937-online-stock-span) |
 ## Union Find
 |  |
