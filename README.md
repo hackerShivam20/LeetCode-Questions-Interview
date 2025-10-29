@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0380-insert-delete-getrandom-o1) |
 | [1129-longest-string-chain](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1129-longest-string-chain) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
