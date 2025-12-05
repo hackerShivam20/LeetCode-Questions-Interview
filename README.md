@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0542-01-matrix) |
+| [0713-subarray-product-less-than-k](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0733-flood-fill) |
 | [0943-sum-of-subarray-minimums](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0943-sum-of-subarray-minimums) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0713-subarray-product-less-than-k) |
 | [1603-running-sum-of-1d-array](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1940-maximum-xor-for-each-query) |
 ## Hash Table
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0410-split-array-largest-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0713-subarray-product-less-than-k) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0713-subarray-product-less-than-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Simulation
