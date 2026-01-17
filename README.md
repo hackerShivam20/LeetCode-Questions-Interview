@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/0595-big-countries) |
 | [1135-customers-who-bought-all-products](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1153-product-sales-analysis-i) |
+| [1193-monthly-transactions-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1211-queries-quality-and-percentage) |
 | [1258-article-views-i](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1415-students-and-examinations) |
