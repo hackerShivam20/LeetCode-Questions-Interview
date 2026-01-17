@@ -3,10 +3,11 @@ SELECT
 DATE_FORMAT(trans_date, '%Y-%m') AS month,
 country,
 COUNT(*) AS trans_count,
-COUNT(
+SUM(
     CASE
     WHEN state = 'approved'
     THEN 1
+    ELSE 0
     END
 ) AS approved_count,
 SUM(amount) AS trans_total_amount,
