@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hackerShivam20/LeetCode-Questions-Interview/tree/master/1908-recyclable-and-low-fat-products) |
